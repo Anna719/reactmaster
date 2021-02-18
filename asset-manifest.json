@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reactmaster/static/css/main.6f7548c0.chunk.css",
+    "main.css": "/reactmaster/static/css/main.42a4d0c2.chunk.css",
     "main.js": "/reactmaster/static/js/main.63e2f11c.chunk.js",
     "main.js.map": "/reactmaster/static/js/main.63e2f11c.chunk.js.map",
     "runtime-main.js": "/reactmaster/static/js/runtime-main.c68b5f5a.js",
@@ -8,16 +8,17 @@
     "static/js/2.f18d2ef6.chunk.js": "/reactmaster/static/js/2.f18d2ef6.chunk.js",
     "static/js/2.f18d2ef6.chunk.js.map": "/reactmaster/static/js/2.f18d2ef6.chunk.js.map",
     "index.html": "/reactmaster/index.html",
-    "precache-manifest.9da3c40b6b788f8e89fd886e52d9523d.js": "/reactmaster/precache-manifest.9da3c40b6b788f8e89fd886e52d9523d.js",
+    "precache-manifest.a873a13e51c2d1bd3dabefca39e1ebec.js": "/reactmaster/precache-manifest.a873a13e51c2d1bd3dabefca39e1ebec.js",
     "service-worker.js": "/reactmaster/service-worker.js",
-    "static/css/main.6f7548c0.chunk.css.map": "/reactmaster/static/css/main.6f7548c0.chunk.css.map",
+    "static/css/main.42a4d0c2.chunk.css.map": "/reactmaster/static/css/main.42a4d0c2.chunk.css.map",
     "static/js/2.f18d2ef6.chunk.js.LICENSE.txt": "/reactmaster/static/js/2.f18d2ef6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactmaster/static/media/img-8.d211c298.jpg",
     "static/media/HeroSection.css": "/reactmaster/static/media/nature.987003f7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c68b5f5a.js",
     "static/js/2.f18d2ef6.chunk.js",
-    "static/css/main.6f7548c0.chunk.css",
+    "static/css/main.42a4d0c2.chunk.css",
     "static/js/main.63e2f11c.chunk.js"
   ]
 }
