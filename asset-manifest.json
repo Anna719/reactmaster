@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactmaster/static/css/main.42a4d0c2.chunk.css",
-    "main.js": "/reactmaster/static/js/main.63e2f11c.chunk.js",
-    "main.js.map": "/reactmaster/static/js/main.63e2f11c.chunk.js.map",
+    "main.js": "/reactmaster/static/js/main.63940607.chunk.js",
+    "main.js.map": "/reactmaster/static/js/main.63940607.chunk.js.map",
     "runtime-main.js": "/reactmaster/static/js/runtime-main.c68b5f5a.js",
     "runtime-main.js.map": "/reactmaster/static/js/runtime-main.c68b5f5a.js.map",
     "static/js/2.f18d2ef6.chunk.js": "/reactmaster/static/js/2.f18d2ef6.chunk.js",
     "static/js/2.f18d2ef6.chunk.js.map": "/reactmaster/static/js/2.f18d2ef6.chunk.js.map",
     "index.html": "/reactmaster/index.html",
-    "precache-manifest.a873a13e51c2d1bd3dabefca39e1ebec.js": "/reactmaster/precache-manifest.a873a13e51c2d1bd3dabefca39e1ebec.js",
+    "precache-manifest.c6585f2e224b97d1ad3b46a3200949da.js": "/reactmaster/precache-manifest.c6585f2e224b97d1ad3b46a3200949da.js",
     "service-worker.js": "/reactmaster/service-worker.js",
     "static/css/main.42a4d0c2.chunk.css.map": "/reactmaster/static/css/main.42a4d0c2.chunk.css.map",
     "static/js/2.f18d2ef6.chunk.js.LICENSE.txt": "/reactmaster/static/js/2.f18d2ef6.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c68b5f5a.js",
     "static/js/2.f18d2ef6.chunk.js",
     "static/css/main.42a4d0c2.chunk.css",
-    "static/js/main.63e2f11c.chunk.js"
+    "static/js/main.63940607.chunk.js"
   ]
 }
