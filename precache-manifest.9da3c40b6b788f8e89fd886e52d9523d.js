@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "abf4b98b21fe1da6f43404be8b1b1508",
+    "revision": "2241eb88ef1027975a4ca5d355a7a2aa",
     "url": "/reactmaster/index.html"
   },
   {
-    "revision": "da5b4d9c23888f758055",
-    "url": "/reactmaster/static/css/main.ac689230.chunk.css"
+    "revision": "e595f9768b521b4a25ee",
+    "url": "/reactmaster/static/css/main.6f7548c0.chunk.css"
   },
   {
     "revision": "3ebadea35fc5c37b6dda",
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reactmaster/static/js/2.f18d2ef6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da5b4d9c23888f758055",
-    "url": "/reactmaster/static/js/main.0762ed51.chunk.js"
+    "revision": "e595f9768b521b4a25ee",
+    "url": "/reactmaster/static/js/main.63e2f11c.chunk.js"
   },
   {
     "revision": "9fcec8942f8c6ad47249",
     "url": "/reactmaster/static/js/runtime-main.c68b5f5a.js"
-  },
-  {
-    "revision": "cd1d1c978d0030f14f1d8a7690eb8398",
-    "url": "/reactmaster/static/media/img-1.cd1d1c97.jpg"
   },
   {
     "revision": "987003f7a016ff6b55bb723746d46e03",
